@@ -169,6 +169,9 @@ The future implementation would include:
 
 Route 53 and the custom ACM certificate are documented as a planned extension and were not deployed in the current version.
 
+## AI Usage
+AI was used only for HTML and CSS code for the project's website. Everything else was done by myself.
+
 ## What I Learned
 
 This project helped me practise:
