@@ -1,6 +1,6 @@
 # Secure Static Website on AWS
 
-A static portfolio website hosted in a private Amazon S3 bucket and delivered globally through Amazon CloudFront.
+A static  website hosted in a private Amazon S3 bucket and delivered globally through Amazon CloudFront.
 
 The project demonstrates secure origin access, HTTPS delivery, edge caching, custom error handling, and practical AWS deployment documentation.
 
